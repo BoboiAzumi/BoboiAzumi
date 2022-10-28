@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoboiAzumi
-- 👀 I’m interested in Datascience, Web Developer, Mobile Developer
+- 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
 - 🌱 I’m currently learning Python, Java, and Web Design
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me Facebook : Naufal Azmi
