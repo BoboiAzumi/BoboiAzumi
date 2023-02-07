@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoboiAzumi. In real life, my name is Naufal Azmi G. I'm a college student in Information System
+- 👋 Hi, I’m @BoboiAzumi. In real life, my name is Naufal Azmi. I'm a college student in Information System
 - 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
 - 🌱 I’m currently learning Python, Java, and Web Design
 - 💞️ I’m looking to collaborate on Web Developer
