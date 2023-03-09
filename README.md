@@ -35,9 +35,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # Statistics
-<div style="display:block">
-  <a href="https://github.com/BoboiAzumi">
-    <img src="https://github-readme-stats.vercel.app/api?username=boboiazumi&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboiazumi&langs_count=5&layout=compact&theme=vision-friendly-dark" width="33%">
-  </a>
-</div>
+<a href="https://github.com/BoboiAzumi">
+  <img src="https://github-readme-stats.vercel.app/api?username=boboiazumi&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="45%">
+</a>
+<br>
+<a href="https://github.com/BoboiAzumi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboiazumi&langs_count=5&layout=compact&theme=vision-friendly-dark" width="45%">
+</a>
