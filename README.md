@@ -28,6 +28,12 @@ You can click the Preview link to take a look at your changes.
   <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter%20-%23D00000.svg?&style=for-the-badge&logo=codeigniter&logoColor=white"/>
 </div>
 
+# Current Use Operating System
+<div style="display:flex">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Windows 10" src="https://img.shields.io/badge/Kali%20Linux%20-%231572B6.svg?&style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</div>
+
 # Statistics
 <div align="center">
   <a href="https://github.com/BoboiAzumi">
