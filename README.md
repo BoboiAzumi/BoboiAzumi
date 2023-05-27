@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzumiSensei, I'm a college student in Information System
+- 👋 Hi, I’m @AzumiHikaru, I'm a college student in Information System
 - 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
 - 🌱 I’m currently learning Python, NodeJS, Java, and Web Design
 - 💞️ I’m looking to collaborate on Web Developer
@@ -35,10 +35,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # Statistics
-<a href="https://github.com/BoboiAzumi">
-  <img src="https://github-readme-stats.vercel.app/api?username=azumisensei&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
+<a href="https://github.com/AzumiHikaru">
+  <img src="https://github-readme-stats.vercel.app/api?username=azumihikaru&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" width="100%">
 </a>
 <br>
-<a href="https://github.com/BoboiAzumi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azumisensei&langs_count=5&layout=compact&theme=vision-friendly-dark" width="100%">
+<a href="https://github.com/AzumiHikaru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azumihikaru&langs_count=5&layout=compact&theme=vision-friendly-dark" width="100%">
 </a>
