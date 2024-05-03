@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoboiAzumi (Not real name), I'm a college student in Information System
-- 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
+- 👀 I’m interested in Backend Web
 - 🌱 I’m currently learning Python, NodeJS, Java, and Web Design
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me Facebook : Naufal Azmi
