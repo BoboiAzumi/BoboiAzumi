@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Web
 - 🌱 I’m currently learning Javascript (Node/Bun) using Hono or Express framework
 - 💞️ I’m looking to collaborate on Web Developer
-- 📫 How to reach me Facebook : Naufal Azmi
+<!---- 📫 How to reach me Facebook : Naufal Azmi--->
 
 
 <!---
