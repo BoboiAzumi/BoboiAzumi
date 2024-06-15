@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 # Current Use Operating System
 <div style="display:flex">
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="EndeavourOS" src="https://img.shields.io/badge/Kali%20Linux%20-%231572B6.svg?&style=for-the-badge&logo=endeavouros&logoColor=white"/>
+  <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS%20-%231572B6.svg?&style=for-the-badge&logo=endeavouros&logoColor=white"/>
 </div>
 
 <!----
