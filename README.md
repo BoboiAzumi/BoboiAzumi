@@ -48,4 +48,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Generate Panel AnimagineXL
-<iframe src="https://cagliostrolab-animagine-xl-3-1.hf.space"></iframe>
+<iframe src=""></iframe>
