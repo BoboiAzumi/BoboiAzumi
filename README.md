@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoboiAzumi (Not real name), I'm a college student in Information System
+- 👋 Hi, I’m @BoboiAzumi, You can call me Naufal because it my real name. I'm a college student in Information System
 - 👀 I’m interested in Backend Web
 - 🌱 I’m currently learning Javascript (Node/Bun) using Hono or Express framework
 - 💞️ I’m looking to collaborate on Web Developer
