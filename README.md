@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="Java" src="https://img.shields.io/badge/java%20netbeans-%23ED8B00.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS%20-brightgreen?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Jinja2" src="https://img.shields.io/badge/Jinja2%20-%23D00000.svg?&style=for-the-badge&logo=jinja&logoColor=white"/>
+  <!--<img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/>-->
+  <!--<img alt="Jinja2" src="https://img.shields.io/badge/Jinja2%20-%23D00000.svg?&style=for-the-badge&logo=jinja&logoColor=white"/>-->
   <!--<img alt="React" src="https://img.shields.io/badge/ReactJS-%23276DC3.svg?&style=for-the-badge&logo=react&logoColor=white"/>-->
   <img alt="Express.js" src="https://img.shields.io/badge/Express.JS%20-brightgreen?&style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Hono.js" src="https://img.shields.io/badge/Hono.js-grey?style=for-the-badge&logo=hono"/>
