@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Statistic
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boboiazumi&show_icons=true&locale=en&layout=compact" alt="boboiazumi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boboiazumi&show_icons=true&locale=en" alt="boboiazumi" /></p>
 <!---
 TICK : 8
 ---->
