@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Currently Learn
 <div style="display:flex">
-  <img alt="Java" src="https://img.shields.io/badge/java%20netbeans-%23ED8B00.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <!--<img alt="Java" src="https://img.shields.io/badge/java%20netbeans-%23ED8B00.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>-->
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS%20-brightgreen?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <!--<img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/>-->
