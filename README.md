@@ -46,10 +46,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboiazumi&langs_count=5&layout=compact&theme=vision-friendly-dark" width="100%">
 </a>
 --->
+<!----
 # Statistic
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boboiazumi&show_icons=true&locale=en&layout=compact" alt="boboiazumi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boboiazumi&show_icons=true&locale=en" alt="boboiazumi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boboiazumi&" alt="boboiazumi" /></p>
+--->
 <!---
 TICK : 10
 ---->
