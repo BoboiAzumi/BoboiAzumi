@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23ED8B00.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23276DC3.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma%20-inactive?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <!--<img alt="Figma" src="https://img.shields.io/badge/Figma%20-inactive?&style=for-the-badge&logo=figma&logoColor=white"/>-->
   <!--<img alt="Figma" src="https://img.shields.io/badge/Bootstrap%20-%23326ce5.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>-->
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23276DC3.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
