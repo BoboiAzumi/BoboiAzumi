@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **fresh Information System graduate** from Indonesia with a background in backend engineering and full-stack web development. I enjoy exploring machine learning — especially building things from scratch to really understand how they work.
+I'm a fresh Information Systems graduate from Indonesia with a background in web development, backend development, and machine learning development. I enjoy exploring technology by building systems from scratch, whether it's web applications, backend services, or machine learning models, because it helps me gain a deeper understanding of how they work.
 
 - 🔭 Currently exploring: local LLM deployment, RAG pipelines, and fine-tuning
 - 🧠 Interests: Deep Learning, NLP, Transformer architecture, Backend systems
