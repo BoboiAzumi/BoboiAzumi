@@ -60,7 +60,7 @@ Open-source **Computer Based Test** platform fully self-hostable for anyone.
 <td width="50%">
 
 ### 🧠 [Go Simple Neural Network](https://github.com/BoboiAzumi/Go-Simple-Neural-Network)
-A **neural network implementation** written in pure Go, because why not?
+A **neural network implementation** written in pure Go.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/BoboiAzumi/Go-Simple-Neural-Network?style=flat-square&color=f1c40f)](https://github.com/BoboiAzumi/Go-Simple-Neural-Network/stargazers)
