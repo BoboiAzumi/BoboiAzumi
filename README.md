@@ -31,7 +31,7 @@ I'm a **fresh Information System graduate** from Indonesia with a background in 
 <td width="50%">
 
 ### 🧬 [TensaiNeuro](https://github.com/BoboiAzumi/TensaiNeuro)
-A **TypeScript tensor & neural network library** built from scratch — featuring autograd, backpropagation, strides/shape mechanics, and PyTorch-equivalent operations.
+A **TypeScript tensor & neural network library** built from scratch.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/BoboiAzumi/TensaiNeuro?style=flat-square&color=f1c40f)](https://github.com/BoboiAzumi/TensaiNeuro/stargazers)
@@ -40,7 +40,7 @@ A **TypeScript tensor & neural network library** built from scratch — featurin
 <td width="50%">
 
 ### 👁️ [Yorusaki](https://github.com/BoboiAzumi/Yorusaki)
-**YOLO object detection** running entirely in the browser with Next.js and ONNX Runtime — no server required.
+**YOLO object detection** running entirely in the browser with Next.js and ONNX Runtime no server required.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/BoboiAzumi/Yorusaki?style=flat-square&color=f1c40f)](https://github.com/BoboiAzumi/Yorusaki/stargazers)
@@ -51,7 +51,7 @@ A **TypeScript tensor & neural network library** built from scratch — featurin
 <td width="50%">
 
 ### 📝 [HoshiCBT](https://github.com/BoboiAzumi/HoshiCBT)
-Open-source **Computer Based Test** platform — fully self-hostable for anyone.
+Open-source **Computer Based Test** platform fully self-hostable for anyone.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/BoboiAzumi/HoshiCBT?style=flat-square&color=f1c40f)](https://github.com/BoboiAzumi/HoshiCBT/stargazers)
@@ -60,7 +60,7 @@ Open-source **Computer Based Test** platform — fully self-hostable for anyone.
 <td width="50%">
 
 ### 🧠 [Go Simple Neural Network](https://github.com/BoboiAzumi/Go-Simple-Neural-Network)
-A **neural network implementation** written in pure Go — because why not?
+A **neural network implementation** written in pure Go, because why not?
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/BoboiAzumi/Go-Simple-Neural-Network?style=flat-square&color=f1c40f)](https://github.com/BoboiAzumi/Go-Simple-Neural-Network/stargazers)
