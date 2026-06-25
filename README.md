@@ -18,9 +18,9 @@ I'm a **fresh Information System graduate** from Indonesia with a background in 
 
 - 🔭 Currently exploring: local LLM deployment, RAG pipelines, and fine-tuning
 - 🧠 Interests: Deep Learning, NLP, Transformer architecture, Backend systems
-- 🌱 Always learning — TypeScript, Python, Go, and whatever rabbit hole I fall into next
+- 🌱 Always learning TypeScript, Python, Go, and whatever rabbit hole I fall into next
 - 🤝 Member of [@IMPHNEN](https://github.com/IMPHNEN) & [@cagliostrolab](https://github.com/cagliostrolab)
-- 📍 Based in **Indonesia**
+- 📍 Based in **North Sumatera, Indonesia**
 
 ---
 
