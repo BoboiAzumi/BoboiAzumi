@@ -14,10 +14,10 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **fresh Information System graduate** from Indonesia who loves building things from scratch — especially when it involves low-level internals, machine learning, or weird side projects that probably shouldn't exist.
+I'm a **fresh Information System graduate** from Indonesia with a background in backend engineering and full-stack web development. I enjoy exploring machine learning — especially building things from scratch to really understand how they work.
 
-- 🔭 Currently building: neural networks in C++ for Arduino, and exploring local LLM deployment
-- 🧠 Interests: Deep Learning, NLP, Autograd engines, RAG pipelines, and compiler-ish stuff
+- 🔭 Currently exploring: local LLM deployment, RAG pipelines, and fine-tuning
+- 🧠 Interests: Deep Learning, NLP, Transformer architecture, Backend systems
 - 🌱 Always learning — TypeScript, Python, Go, and whatever rabbit hole I fall into next
 - 🤝 Member of [@IMPHNEN](https://github.com/IMPHNEN) & [@cagliostrolab](https://github.com/cagliostrolab)
 - 📍 Based in **Indonesia**
@@ -79,7 +79,6 @@ A **neural network implementation** written in pure Go — because why not?
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-276DC3?style=for-the-badge&logo=PHP&logoColor=white)
 
 **Frameworks & Libraries**
