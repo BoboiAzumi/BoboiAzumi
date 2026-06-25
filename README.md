@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Halo, I'm **Naufal Azmi** — BoboiAzumi
+# 👋 Halo, I'm **Naufal Azmi** - BoboiAzumi
 
 *Fresh graduate · Builder · Lifelong Learner*
 
